@@ -1,6 +1,6 @@
 # 🛒 Retail Customer Purchase Behavior Analysis
 
-This project analyzes transaction and customer data from a retail environment to uncover insights into customer behavior, product preferences, and segment-based trends for snack purchases — specifically focused on chips.
+This project analyzes transaction and customer data from a retail environment to uncover insights into customer behavior, product preferences, and segment-based trends for snack purchases - specifically focused on chips.
 
 ## 📌 Objective
 
