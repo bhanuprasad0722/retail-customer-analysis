@@ -101,5 +101,3 @@ Loaded both datasets using `pandas` and inspected their basic structure.
 
 ---
 
-## 📂 Project Structure
-
